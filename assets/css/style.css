@@ -1,0 +1,8 @@
+body {
+    background-image: url(../images/witewall_3.png)
+}
+.para {
+    line-height: 200% !important;
+}
+footer { 
+    border-top: 8px solid rgb(0,152,182);
