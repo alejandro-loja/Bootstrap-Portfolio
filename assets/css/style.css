@@ -7,3 +7,25 @@ footer {
 .para {
     line-height: 200% !important;
 }
+
+.port-image{
+    position: relative;
+    width: 100% !important;
+    height: 100% !important; 
+    opacity: 0.7;
+}
+
+.thumbnail {
+    position: relative;
+    height: 240px;
+    width: 240px;
+}
+
+.caption {
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+    width: 100%;
+    background-color: #4aaaa5;
+    padding: 6px;
+}
