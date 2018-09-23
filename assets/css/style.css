@@ -18,7 +18,7 @@ footer {
 .thumbnail {
     position: relative;
     height: 240px;
-    width: 240px;
+    width: 280px;
 }
 
 .caption {
@@ -27,5 +27,5 @@ footer {
     left: 0;
     width: 100%;
     background-color: #4aaaa5;
-    padding: 6px;
+    padding: 10px;
 }
